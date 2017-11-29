@@ -70,3 +70,17 @@ The [EBIO website](https://colorado.edu/ebio) is a great location for public fac
 
 The [EBIO SharePoint](https://https://o365coloradoedu.sharepoint.com/sites/ebio/) site is the go-to location for anything that wouldn't be public facing data. This includes procedures and documentation specific to our department.
 
+## Best tools for the job. Software and Hardware recommendations
+I didn't have enough time to really work on this section... :(
+
+### Writing
+For simple projects Microsoft Word is great. For anything with complex graphics or code students might consider using [LaTeX](https://www.latex-project.org/).
+* [Why you should LaTeX your dissertation; or, why you don't have to write your dissertation in Word](https://amrys.wordpress.com/2013/01/16/why-your-should-latex-your-dissertation-or-why-you-dont-have-to-write-your-dissertation-in-word/)
+* [Why LaTeX is a better choice than MS Word](https://www.researchgate.net/post/Why_LaTex_is_better_choice_than_Microsoft_Word)
+
+### Designing
+PowerPoint is abysmally suited for typesetting or layers. OpenSource design software exists to compete with Adobe and PowerPoint as design solutions. Both GIMP And InkScape would compete with Adobe Photoshop and Illustrator respectively. 
+* [GIMP](https://www.gimp.org/)
+* [InkScape](https://inkscape.org/en/)
+
+
