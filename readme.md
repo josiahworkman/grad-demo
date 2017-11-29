@@ -30,7 +30,7 @@ This is an outline for students working at CU Boulder to succeed in all the thin
 ### Security and Passwords
 While still prevalent, viruses that simply infect your computer are much less of a concern than they were years ago. The most vulnerable data is information about you, your credit cards, SSN, passwords, etc.
 
-Can you encrypt your computer?
+#### Can you encrypt your computer?
 * Mac: [FileVault](https://support.apple.com/en-us/HT204837)
 * Windows: [BitLocker](https://support.microsoft.com/en-us/help/4028713/windows-10-turn-on-device-encryption)
 
@@ -62,7 +62,7 @@ To that point, everything on [OIT's website](https://oit.colorado.edu) is going 
 
 Furthermore, anything to do with research computing can be found on [Research Computing website](https://rc.colorado.edu). They have a very helpful support staff and are willing to help you get started with using the compute clusters. You have to teach yourself some basic skills with the command line to work with Research Computing hardware, but it's well worth your time. Last but not least, Research Computing holds demo courses every month or so - check their website for more.
 
-## We are also your fiend
+## We are also your friend
 For any department specific questions, the office staff should be a good point of contact. 
 [Here is what we do](https://www.colorado.edu/ebio/people/staff)
 
