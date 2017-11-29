@@ -70,7 +70,7 @@ The [EBIO website](https://colorado.edu/ebio) is a great location for public fac
 
 The [EBIO SharePoint](https://https://o365coloradoedu.sharepoint.com/sites/ebio/) site is the go-to location for anything that wouldn't be public facing data. This includes procedures and documentation specific to our department.
 
-## Best tools for the job. Software and Hardware recommendations
+## Software and hardware recommendations
 I didn't have enough time to really work on this section... :(
 
 ### Writing
@@ -82,5 +82,9 @@ For simple projects Microsoft Word is great. For anything with complex graphics 
 PowerPoint is abysmally suited for typesetting or layers. OpenSource design software exists to compete with Adobe and PowerPoint as design solutions. Both GIMP And InkScape would compete with Adobe Photoshop and Illustrator respectively. 
 * [GIMP](https://www.gimp.org/)
 * [InkScape](https://inkscape.org/en/)
+
+### Hardware
+OIT Has a list of [recommendations](https://oit.colorado.edu/software-hardware/recommended-software-and-hardware-list) to consider when purchasing hardware, I tend to thing some of these are overkill.
+* [Minimum supported software and hardware](https://oit.colorado.edu/software-hardware/supported-software-hardware-list)
 
 
