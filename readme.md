@@ -68,10 +68,10 @@ For any department specific questions, the office staff should be a good point o
 
 The [EBIO website](https://colorado.edu/ebio) is a great location for public facing data
 
-The [EBIO SharePoint](https://https://o365coloradoedu.sharepoint.com/sites/ebio/) site is the go-to location for anything that wouldn't be public facing data. This includes procedures and documentation specific to our department.
+The [EBIO SharePoint](https://o365coloradoedu.sharepoint.com/sites/ebio/) site is the go-to location for anything that wouldn't be public facing data. This includes procedures and documentation specific to our department.
 
 ## Software and hardware recommendations
-I didn't have enough time to really work on this section... :(
+OIT has [documentation](https://oit.colorado.edu/software-hardware/recommended-software-and-hardware-list) on this
 
 ### Writing
 For simple projects Microsoft Word is great. For anything with complex graphics or code students might consider using [LaTeX](https://www.latex-project.org/).
