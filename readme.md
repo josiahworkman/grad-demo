@@ -71,7 +71,7 @@ Purchasing? rules about leaving the country? Grants? Most policies and procedure
 
 To that point, everything on [OIT's website](https://oit.colorado.edu) is going to be very helpful as you navigate your way through grad school. OIT's website is the go-to location for software, it's updated regularly and all info on purchasing can be found on the site as well. 
 
-Furthermore, anything to do with research computing can be found on [Research Computing website](https://rc.colorado.edu). They have a very helpful support staff and are willing to help you get started with using the compute clusters. You have to teach yourself some basic skills with the command line to work with Research Computing hardware, but it's well worth your time. Last but not least, Research Computing holds demo courses every month or so - check their website for more.
+Furthermore, anything to do with scale computing can be found on the [Research Computing website](https://rc.colorado.edu). They have a very helpful support staff and are willing to help you get started with using the compute clusters. You have to teach yourself some basic skills with the command line to work with Research Computing hardware, but it's well worth your time. Last but not least, Research Computing holds demo courses every month or so - check their website for more.
 
 ## Department Specific resources
 For any department specific questions, the office staff should be a good point of contact. 
@@ -95,6 +95,8 @@ Resources in the EBIO Office:
 * Projectors 
 * Conferencing Equipment
 * IT Resources - Check with IT Staff 
+    * Checkout Laptops (limited resource)
+    * Cables, mice, , monitors, keyboards, etc.
 
 ## Software and hardware recommendations
 
@@ -118,6 +120,8 @@ OIT Has a list of [recommendations](https://oit.colorado.edu/software-hardware/r
 [Canvas](https://oit.colorado.edu/services/teaching-learning-tools/canvas) is the preferred learning management tool for teaching at CU Boulder. Support for D2L ends after Spring 2019.
 
 ### Virtual Machines
-[VirtualBox](https://www.virtualbox.org/) Free and open source product from Oracle. Run Windows or Linux from your mac.
+[VirtualBox](https://www.virtualbox.org/) is an open source product from Oracle. Run Windows or Linux from your Mac or Linux from your Windows computer. 
 
-
+## How to rent equipment across campus 
+* [Shared Instrumentation Network](https://www.colorado.edu/sharedinstrumentation/) This is a resource for the entire CU Boulder campus that enables fundamental and applied research, and promotes interdisciplinary collaboration across our many departments, institutes and centers.
+* [Buff Surplus](https://buffsurplus.colorado.edu/) Various equipment/ desks posted for campus use.
